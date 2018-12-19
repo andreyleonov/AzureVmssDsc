@@ -1,0 +1,1 @@
+Testing VMSS with DSC in Azure
